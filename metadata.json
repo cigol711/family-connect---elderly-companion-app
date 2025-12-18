@@ -1,0 +1,7 @@
+{
+  "name": "Family Connect - Elderly Companion App",
+  "description": "A simplified, large-button interface designed for elderly users to quickly call their family members via phone or WeChat with just one click.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

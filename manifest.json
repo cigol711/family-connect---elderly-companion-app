@@ -1,0 +1,19 @@
+
+{
+  "short_name": "亲情连线",
+  "name": "亲情连线 - 长辈版",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/6645/6645160.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#2563eb",
+  "background_color": "#000000",
+  "orientation": "portrait",
+  "description": "为长辈设计的简洁拨号应用"
+}
